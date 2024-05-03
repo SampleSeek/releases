@@ -1,2 +1,2 @@
-# releases
-SampleSeek installers
+# SampleSeek installers
+Download mirror
